@@ -1,4 +1,4 @@
-## AI_New_Drug_competition
+# AI_New_Drug_competition
 
 ## 프로젝트명
 AI 신약 개발 경진대회
@@ -24,4 +24,4 @@ AI 신약 개발 경진대회
 
 ## 활용 / 참고 정보
 
-
+## 프로젝트 후기(코멘트)
