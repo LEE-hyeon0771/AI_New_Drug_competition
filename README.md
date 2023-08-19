@@ -23,5 +23,6 @@ AI 신약 개발 경진대회
 | Code Management | <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=black"> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=black"> |
 
 ## 활용 / 참고 정보
+[개발 Flow](https://www.notion.so/AI-1a45c9a103a14b2f8ea4b8151d7bec06)
 
 ## 프로젝트 후기(코멘트)
