@@ -23,7 +23,7 @@ AI 신약 개발 경진대회
 | division        | stack                                                                                                                                                                                                                                                                                                       |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Data preprocessing      | <img src="https://img.shields.io/badge/python-1572B6?sytle=flat&logo=pythonk&logoColor=white"> |
-| ML/DL Model        |  |
+| ML/DL Model        | <img src="https://img.shields.io/badge/RandomForest-181717?sytle=flat&logo=randomforest&logoColor=white"> <img src="https://img.shields.io/badge/GCN-181717?sytle=flat&logo=GCN&logoColor=white"> |
 | Development Tool |  <img src="https://img.shields.io/badge/python-1572B6?sytle=flat&logo=pythonk&logoColor=white">|
 | Code Management | <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=black"> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=black"> |
 
