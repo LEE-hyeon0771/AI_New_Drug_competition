@@ -3,11 +3,6 @@
 ## 프로젝트명
 AI 신약 개발 경진대회
 
-## 팀원 소개
-
-| ![](https://github.com/LEE-Hyeon0771.png) | ![](https://github.com/joon56.png) | ![](https://github.com/hoon10.png) |
-| :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
-|             **이현<br>(Developer)<br>연세대학교**              |             **유민준<br>(Developer)<br>연세대학교 미래캠퍼스**              |             **최훈<br>(Developer)<br>연세대학교 미래캠퍼스**              |
 
 ## 대표 이미지
 ![image](https://github.com/LEE-hyeon0771/AI_New_Drug_competition/assets/84756586/f6d5146f-3f4d-4b7b-915a-781f45920c1b)
